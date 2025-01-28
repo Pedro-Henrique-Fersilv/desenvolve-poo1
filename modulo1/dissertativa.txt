@@ -1,4 +1,15 @@
-O paradigma que se enquadra melhor nesse contexto é o de Programação orientada a objetos
+Questão: Imagine que você está desenvolvendo um sistema de gerenciamento de uma biblioteca. Neste sistema, é necessário modelar livros, autores, usuários, empréstimos e devoluções. Cada livro possui informações como título, autor e gênero. Os autores têm nome, nacionalidade e obras publicadas. Os usuários da biblioteca têm nome, idade e histórico de empréstimos. Os empréstimos registram a data de retirada e devolução, além do livro e usuário envolvidos.
+
+Com base no cenário descrito, analise qual paradigma de programação seria mais indicado para implementar o sistema de gerenciamento da biblioteca:
+
+a) programação estruturada
+b) programação imperativa
+c) programação orientada a objetos ou
+
+d) programação funcional
+----------------------------------------------------------------------------------------------------
+
+Resposta: O paradigma que se enquadra melhor nesse contexto é o de Programação orientada a objetos
 
 Justificativa:
 
