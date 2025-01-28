@@ -1,0 +1,12 @@
+O paradigma que se enquadra melhor nesse contexto é o de Programação orientada a objetos
+
+Justificativa:
+
+O sistema de uma biblioteca possui entidades que possuem atributos e comportamentos próprios, essas entidades tem relações entre si, como:
+
+- Um autor pode estar associado a 1 ou múltiplos livros
+- Um usuário pode realizar múltiplos empréstimos
+- Um empréstimo conecta um usuário a um livro
+
+Sendo assim a POO é o mais adequado para esse tipo de situação, envolvendo classes, objetos e atributos.
+Também a POO facilita a criação de novas funções e adição de mais recursos no futuro, porque organiza o código em classes, sendo assim mais fácil adicionar ou mudar algo sem bagunçar o resto do sistema.
